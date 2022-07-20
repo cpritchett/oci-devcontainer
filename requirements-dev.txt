@@ -1,0 +1,6 @@
+pylint==2.14.5
+yapf==0.32.0
+rope==1.2.0
+debugpy==1.6.2
+pylint-pytest==1.1.2
+oci-cli==3.11.1
